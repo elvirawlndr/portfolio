@@ -26,6 +26,6 @@ This portfolio is built with:
 ## 📬 Contact
 If you’re interested in collaborating or just want to say hi, feel free to reach out:  
 
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)  
+- 🌐 [Portfolio Website](https://elvirawlndr.github.io/portfolio)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/elvirawlndr)  
 - 📧 Email: ewulandari2804@email.com  
